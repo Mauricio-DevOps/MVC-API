@@ -1,8 +1,0 @@
-C:\Users\SEGOV\source\repos\CrudImovel\Imovel\obj\Debug\net6.0\Imovel.csproj.AssemblyReference.cache
-C:\Users\SEGOV\source\repos\CrudImovel\Imovel\obj\Debug\net6.0\Imovel.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SEGOV\source\repos\CrudImovel\Imovel\obj\Debug\net6.0\Imovel.AssemblyInfoInputs.cache
-C:\Users\SEGOV\source\repos\CrudImovel\Imovel\obj\Debug\net6.0\Imovel.AssemblyInfo.cs
-C:\Users\SEGOV\source\repos\CrudImovel\Imovel\obj\Debug\net6.0\Imovel.csproj.CoreCompileInputs.cache
-C:\Users\SEGOV\source\repos\CrudImovel\Imovel\obj\Debug\net6.0\Imovel.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\SEGOV\source\repos\CrudImovel\Imovel\obj\Debug\net6.0\Imovel.RazorAssemblyInfo.cache
-C:\Users\SEGOV\source\repos\CrudImovel\Imovel\obj\Debug\net6.0\Imovel.RazorAssemblyInfo.cs
